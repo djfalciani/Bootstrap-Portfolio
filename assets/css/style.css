@@ -89,7 +89,7 @@ footer {
   }
 
 .portfolio-label {
-  /* position: absolute; */
+  position: absolute;
   bottom: 20px;
   width: 100%;
   padding: 15px;
