@@ -1,3 +1,4 @@
 $("#trainScheduler").on("click", function() {
-    console.log("Hello World");
+    window.location.href = 'https://djfalciani.github.io/TrainScheduler/';
+    
 });
